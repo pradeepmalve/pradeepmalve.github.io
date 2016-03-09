@@ -6,7 +6,7 @@
     "email": "pradeepkmalve@gmail.com",
     "phone": " +91 8019444890",
     "website": "https://pradeepmalve.890m.com",
-    "summary": "This is Pradeep Malve. I am Software Engineer. I am currently associated with Heresy Infotech. My main area of focus is on building  responsive web and mobile applications. I majorily work with Angular JS,Ruby, Rails,Android and with momentous technologies ",
+    "summary": "This is Pradeep Malve. I am Software Engineer. I am currently associated with Heresy Infotech. My main area of focus is on building  responsive web and mobile applications. I majorily work with Angular JS,Python,Android and with momentous technologies. ",
     "location": {
       "address": "Tirmulgherry",
       "postalCode": "500015",
@@ -26,6 +26,11 @@
         "network": "google-plus",
         "username": "pradeepmalve",
         "url": "https://plus.google.com/u/0/108135303730453358673"
+      },
+      {
+        "network": "Github",
+        "username": "pradeepmalve",
+        "url": "https://github.com/pradeepmalve"
       }
     ]
   },
@@ -33,7 +38,7 @@
   "work": [
     {
       "company": "Heresy Infotech",
-      "position": "Developer",
+      "position": "Application Developer",
       "website": "http://heresy.in",
       "startDate": "2016-01-11",
       "endDate": "",
@@ -91,7 +96,7 @@
     {
       "name": "Browsing",
       "keywords": [
-        "Exploring new technologies"
+        "Exploring Trending technologies"
         
       ]
     }
