@@ -6,7 +6,7 @@
     "email": "pradeepkmalve@gmail.com",
     "phone": " +91 8019444890",
     "website": "https://pradeepmalve.890m.com",
-    "summary": "This is Pradeep Malve. I am Software Engineer. I am currently associated with Heresy Infotech. My main area of focus is on building  responsive web and mobile applications. I majorily work with Angular JS,Python,Android and with momentous technologies. ",
+    "summary": "This is Pradeep Malve. I am Software Engineer. I am currently associated with Heresy Infotech. My main area of focus is on building  responsive web and mobile applications. I majorily work with HTML/CSS,Angular JS,Android and with momentous technologies. ",
     "location": {
       "address": "Tirmulgherry",
       "postalCode": "500015",
@@ -42,7 +42,19 @@
       "website": "http://heresy.in",
       "startDate": "2016-01-11",
       "endDate": "",
-      "summary": "We can boast of a team with experience at national and international levels. We have the right blend of experienced personnel and enthusiastic youngsters to deliver quality products on time.",
+      "summary": "",
+      "highlights": [
+        
+        
+      ]
+    },
+    {
+      "company": "Vita IT & EDU. Services",
+      "position": "Application Developer",
+      "website": "",
+      "startDate": "06-08-2015",
+      "endDate": "01-08-2016",
+      "summary": "",
       "highlights": [
         
         
@@ -59,7 +71,7 @@
       "endDate": "2014-05-01",
       "gpa": "7.2",
       "courses": [
-        "DB1101 - Basic SQL",
+        "WT5101 - Web Technologies",
         "CS2011 - Java Introduction"
       ]
     }
